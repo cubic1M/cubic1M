@@ -1,8 +1,8 @@
-### Hi there
+### Hi, I'm Andrew
 
 Co-founder, [Jane](https://jane-dusky.vercel.app)
 
-I'm building Jane, an AI financial controller that runs your money on autopilot.
+Currently building Jane, an AI financial controller that runs your money on autopilot.
 
 ## Jane
 
@@ -28,14 +28,14 @@ user come next, in stages.
 
 My work focuses on:
 
-- **The AI agent.** Claude uses tools over the user's own data. All money math is done in
+- **The AI agent.** Agents uses tools over the user's own data. All money math is done in
   deterministic code, never by the model, and every reply passes a guardrail check before
   it's shown.
 - **Security and privacy.** Every query is scoped to the signed-in user, and a test proves
   every route refuses another person's IDs. Plaid tokens are encrypted with AES-256-GCM, and
   spending caps stay atomic even when many requests arrive at once.
-- **Engineering with AI agents.** Jane is built with a team of Claude Code agents working in
-  parallel. I designed the specs and rules they follow, the CI and merge gates, and a deploy
+- **Engineering with AI agents.** Jane is built with a team of agents working in parallel.
+  I designed the specs and rules they follow, the CI and merge gates, and a deploy
   loop that ships only green commits and rolls back on a failed live check.
 
 ## Selected work
