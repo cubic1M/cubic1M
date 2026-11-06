@@ -50,9 +50,6 @@ My work focuses on:
 - **The first connector:** a read-only Robinhood connection over MCP, switched off until
   approved.
 
-Jane's source is private. The [overview repo](https://github.com/cubic1M/jane-overview)
-describes it, and code access is available on request.
-
 **Stack:** Next.js, TypeScript, Postgres/Prisma, Plaid, Anthropic Claude, Vercel, Vitest and
 Playwright (about 9,300 test cases).
 
