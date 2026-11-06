@@ -1,6 +1,6 @@
 ### Hi, I'm Andrew
 
-Co-founder, [Jane](https://jane-dusky.vercel.app)
+Stanford CS, Co-founder, [Jane](https://jane-dusky.vercel.app)
 
 Currently building Jane, an AI financial controller that runs your money on autopilot.
 
